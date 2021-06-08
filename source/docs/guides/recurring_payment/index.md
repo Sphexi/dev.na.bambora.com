@@ -1,6 +1,7 @@
 ---
 title: Recurring Payment API - Overview
 layout: tutorial
+hide_from_sitemap: true
 
 summary: The Recurring Payment API allows you to schedule series of payments to automatically charge your customers every day, week, month or year.
 
