@@ -18,12 +18,6 @@ cards:
         icon: notification-active
         link: /docs/guides/merchant_quickstart/
     -
-        title: Quickstart - Partner
-        description: >
-            Get a Partner API key and try our Onboarding API.
-        icon: checkmark
-        link: /docs/guides/partner_quickstart/
-    -
         title: Checkout
         description: >
             Add Checkout to your emails or site for a turnkey mobile-ready payment flow.
